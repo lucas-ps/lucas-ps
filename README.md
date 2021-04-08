@@ -17,5 +17,6 @@ I'm new to coding but if you're working on anything similar to what I've posted 
 
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/lucas-ps?template=classic&languages=1&activity=1&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/lucas-ps?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
+
 
