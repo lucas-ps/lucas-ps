@@ -17,5 +17,5 @@ I'm new to coding but if you're working on anything similar to what I've posted 
 
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/lauragift21?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
+![Metrics](https://metrics.lecoq.io/lucas-ps?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
 
