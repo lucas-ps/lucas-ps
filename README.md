@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a first year student at the University of Exeter studying Computer Science. 
+✨ I'm a second year student at the University of Exeter studying Computer Science. 
 
 I'm new to coding but if you're working on anything similar to what I've posted feel free to get in touch :)
 
