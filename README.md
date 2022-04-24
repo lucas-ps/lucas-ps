@@ -8,8 +8,6 @@
 ---
 ✨ I'm a second year student at the University of Exeter studying Computer Science. 
 
-I'm new to coding but if you're working on anything similar to what I've posted feel free to get in touch :)
-
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: Python, Java, SQL, Prolog, Haskell and anyhing else I've worked on in the past 
 - 📫 How to reach me: [@_luca.s](https://www.instagram.com/_luca.s/)
